@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleJvm" value="#JAVA_INTERNAL" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Phone Book/task" />
+            <option value="$PROJECT_DIR$/Problems/Convert to bytes" />
+            <option value="$PROJECT_DIR$/Problems/Count words" />
+            <option value="$PROJECT_DIR$/Problems/Find a fixed point in an array" />
+            <option value="$PROJECT_DIR$/Problems/Find array elements in another array" />
+            <option value="$PROJECT_DIR$/Problems/Phone Book" />
+            <option value="$PROJECT_DIR$/Problems/Profit" />
+            <option value="$PROJECT_DIR$/Problems/Rehashing" />
+            <option value="$PROJECT_DIR$/Problems/Removing" />
+            <option value="$PROJECT_DIR$/Problems/Reverse input text" />
+            <option value="$PROJECT_DIR$/Problems/Search in a descending ordered array" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
